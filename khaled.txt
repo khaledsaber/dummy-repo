@@ -3,6 +3,13 @@ color:red;
 font-size:25px;
 padding:10px;
 margin:10px;
-	
+}
 
+p{
+color:blue;
+}
+
+
+div{
+color:black;
 }
